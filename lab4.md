@@ -4,7 +4,8 @@
 
 # ✅1.⁠ ⁠backup.sh Script
 Create a new file named backup.sh inside your project folder:
-![Image](<Screenshot from 2025-09-09 14-48-55.png>)
+<img width="743" height="423" alt="Screenshot from 2025-09-09 14-48-55" src="https://github.com/user-attachments/assets/be86b452-286e-409d-8c24-28b093918ac9" />
+
 
 # ✅ 2. Make Script Executable
 Run the following command once:
@@ -13,15 +14,19 @@ chmod 777 backup.sh
 
 # ✅ 3. Testing the script
 ## 1. Create some samples .txt files:
-![Image](<Screenshot from 2025-09-09 14-46-10-1.png>)
+<img width="780" height="50" alt="Screenshot from 2025-09-09 14-46-10-1" src="https://github.com/user-attachments/assets/0c84c3c0-ce26-41ee-821a-d4a9ed4d75c9" />
+
 ## 2. Run the script:
 
 ./backup.sh
-![Image](<Screenshot from 2025-09-09 14-46-43.png>)
+<img width="754" height="97" alt="Screenshot from 2025-09-09 14-46-43" src="https://github.com/user-attachments/assets/81a1a8ba-78f1-4b08-b2da-2b19140eedb9" />
+
 ## 3. Check the backup/folder:
 
 ls backup/
-![Image](<Screenshot from 2025-09-09 20-07-30.png>)
+<img width="1108" height="71" alt="Screenshot from 2025-09-09 20-07-30" src="https://github.com/user-attachments/assets/a470ac54-88fd-46de-88c0-8b3c80cfa151" />
+
+
 
 # 🔧 LAB4– File & Backup Automation
 
@@ -71,7 +76,8 @@ world.txt
 ### Output
 Files copied into ⁠ backup/ ⁠ with timestamps:
 
-![Image](<Screenshot from 2025-09-09 20-10-08.png>)
+<img width="592" height="100" alt="Screenshot from 2025-09-09 20-10-08" src="https://github.com/user-attachments/assets/e803f350-d767-4530-8331-c5fd5270a36c" />
+
 ### 🛠️ Q1-What is the difference between cp,mv,and rsync?
 
      ans=cp-Copies files or directories
@@ -81,4 +87,5 @@ Files copied into ⁠ backup/ ⁠ with timestamps:
 
 ### ✅ Q2-How can you schedule scripts to run automatically?
      
+
      ans=You can schedule scripts to run automatically using task schedulers built into your operating system.
