@@ -1,5 +1,6 @@
 # 🔧 1. starter_kit.sh – Script to Set Up Project Structure
-![Image](image-2.png)
+<img width="760" height="397" alt="image-2" src="https://github.com/user-attachments/assets/e0fcd7db-49bc-4b37-92d3-cb972564abc7" />
+
 
 ."#!/bin/bash → Shebang line. It tells the system to use bash to execute this script.
 
@@ -30,11 +31,13 @@ the project/ folder).
 
 
 ## 🔧 output
-![Image](<Screenshot from 2025-09-09 20-23-51.png>)
+<img width="644" height="126" alt="Screenshot from 2025-09-09 20-23-51" src="https://github.com/user-attachments/assets/718b6230-aa1e-4ee5-8a04-d1aa97748b86" />
+
 
 ## 🔧 Check the folder structure:
 
-![Image](<Screenshot from 2025-09-09 20-28-26.png>)
+<img width="750" height="321" alt="Screenshot from 2025-09-09 20-28-26" src="https://github.com/user-attachments/assets/e3ffc0dc-d2a9-427c-90ad-f190af49bfdb" />
+
 
 # 🔧 LAB Extra – Starter Kit & Automation
 
@@ -67,4 +70,5 @@ bash starter_kit.sh"
     ans=."mkdir = “make directory.”
 
          .-p = creates parent directories only if they don’t exist, preventing errors.
+
 
