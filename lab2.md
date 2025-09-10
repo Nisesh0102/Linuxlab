@@ -5,7 +5,7 @@
   ```
  #!/bin/bash      - shebang
  echo "hello world!"     - printing hello world
- name="Ashish Choudhary"   - taking Ashish choudharyvin variable name
+ name="Nisesh Singh"   - taking Nisesh Singhvin variable name
  age=18    -  taking 18 in variable age 
 
  echo "My name is $name ansd I am $age year old."  - printing name and age
@@ -19,14 +19,14 @@
 
 ```
 #!/bin/bash        -shebang
-a="Ashish Choudhary"           -taking Ashish choudhary in the variable a
+a="Nisesh Singh"           -taking Nisesh Singh in the variable a
 b=40                 -taking 40 in the variable b
 
-if [ $a="Ashish CHoudhary" ] && [ $b -gt 18 ]; then      -checking conditions and using an opreator and(&&)
+if [ $a="Nisesh Singh" ] && [ $b -gt 18 ]; then      -checking conditions and using an opreator and(&&)
     echo " you are adult "                     - printing you are adult
 fi
 
-if [ $a=" akshat" ] && [ $b -lt 18 ]; then       -checking conditions and using an opreator and(&&)
+if [ $a="Vansh" ] && [ $b -lt 18 ]; then       -checking conditions and using an opreator and(&&)
     echo "you are minor"                         - printing you are minor
 fi
 
@@ -42,4 +42,5 @@ ANS-- the shebang line at the top of a script specifies the interpreter that sho
 ### 🔧 Q2 how do you make a script executable?
 ANS-- 1. add the shebang at the top
           2. give permission using the chmod command
+
           3. run the code.
