@@ -13,7 +13,8 @@ more.
 
     2 select your operating system
 #### output :
-![Image](<Screenshot from 2025-09-05 10-52-12.png>)
+<img width="903" height="465" alt="Screenshot from 2025-09-05 10-52-12" src="https://github.com/user-attachments/assets/a8b2b7ba-30b4-406c-9c08-10c3b3ae9d46" />
+
 
 ## STEP 2 : INSTALLING VIRTUAL BOX
     
